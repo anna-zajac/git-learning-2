@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+}
+
+.poem-title {
+    font-family: 'Crimson Pro', serif;
+    font-size: 36px;
+}
+
+.poem p:first-of-type {
+    font-weight: bold;
+    font-style:italic;
+}
