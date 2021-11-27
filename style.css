@@ -4,9 +4,14 @@ body {
     font-size: 20px;
 }
 
+.page-title {
+    letter-spacing: 8px;
+}
+
 .poem-title {
     font-family: 'Crimson Pro', serif;
     font-size: 36px;
+    color: #b71540;
 }
 
 .poem p:first-of-type {
