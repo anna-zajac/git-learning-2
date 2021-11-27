@@ -6,6 +6,8 @@ body {
 
 .page-title {
     letter-spacing: 8px;
+    color: #0a3d62;
+    font-size: 50px;
 }
 
 .poem-title {
