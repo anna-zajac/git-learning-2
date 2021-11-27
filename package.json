@@ -1,0 +1,25 @@
+{
+  "name": "git-learning-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna-zajac/git-learning-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna-zajac/git-learning-3/issues"
+  },
+  "homepage": "https://github.com/anna-zajac/git-learning-3#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.27.7",
+    "html-validate": "^6.1.3"
+  }
+}
